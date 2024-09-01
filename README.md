@@ -6,4 +6,5 @@ Odin's Delicious Recipes
 - create links to different recipe pages
 - use git add command to place files in staging area
 - use git commit command with comments
-- use git push orign main command to publish into GitHub
+- use git push orign main command to upload files and directories into GitHub
+- Publish site through GitHub
